@@ -19,4 +19,20 @@
    - If using bare React Native: `npx react-native run-android`
 
 ## 📸 Screenshots
-_Add screenshots of your app here (optional but nice!)_
+
+
+
+### Home Screen
+![Home Screen](./assets/screenshots/homepage.jpg)
+
+### Product Screen
+![Product Screen](./assets/screenshots/productDetailsPage.jpg)
+
+### Cart Screen
+![Cart Screen](./assets/screenshots/CheckoutCompletePage.jpg)
+
+### Favourite Image Pressed Screen
+![Favourite Screen](./assets/screenshots/favoutitesImageChecked.jpg)
+
+### Item Added With Toast Message Pop-Up
+![Item Added Screen](./assets/screenshots/itemAddedWithToastMessagePage.jpg)
