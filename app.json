@@ -16,7 +16,8 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.hephzibah108.eCommerce"
     },
     "web": {
       "bundler": "metro",
@@ -43,6 +44,12 @@
     },
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "26546e3c-1547-46a2-9f4a-6c63b98b3168"
+      }
     }
   }
 }
